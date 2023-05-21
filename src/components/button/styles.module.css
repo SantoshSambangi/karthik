@@ -1,0 +1,11 @@
+.buttonContainer button {
+  background-color: blueviolet;
+  color: #fff;
+  border: none;
+}
+
+.buttonContainer {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
